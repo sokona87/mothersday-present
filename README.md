@@ -1,0 +1,1 @@
+This is my first ever readme file that I modified using "Vi" so please be gentle. I am re-posting a site that I had trouble fixing with my cell phone, I posted this on mothers-day and when I tried modifying it with my phone it somehow got smaller? I dunno, anyways I'm posting this soon so if you already see the website then good for you. 
