@@ -30,4 +30,6 @@ p {
 
 img {
     opacity: .6;
+    border: .5em solid pink;
+    margin-left: -5px;
 }
